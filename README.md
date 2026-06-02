@@ -26,3 +26,4 @@ We never sell, rent, or share your data with any third parties. Your data stays 
 If you use the "Export Backup" feature, an encrypted file is created. You are responsible for the security of this file and the password you set for it.
 7. Your Rights
 You have full control over your data. You can delete all data at any time using the "Clear Local Data" button in the Settings menu.
+For any support please contact - ravimittal7@gmail.com
